@@ -1,16 +1,19 @@
 # Useful Haskell Module
 
-This is simply a Haskell module (useful.hs) containing a few functions
-that I've found to be useful while solving [Project Euler][PE] problems
-or doing other miscellaneous tasks. 
+This is a Haskell module `useful.hs` containing a few functions I wrote
+that were useful while solving [Project Euler][PE] problems
+and learning the language. For example,
 
-This is a basic change to test my new GitHub access token.
-Don't mind me just another test
+  - An implementation of quicksort, mergesort, and an iterative mergesort.
+  - Some mildly sophisticated functions to lazily return the list of prime numbers.
+    It's at least better than the function on the [Haskell homepage][HH].
+  - Functions to return an integers as a list of it's decimal or binary digits.
 
-I'm hosting this file on Github so that anyone who views my repositories 
-can see that I am mildly competent at writing code in Haskell.
+I'm hosting this file on GitHub so that anyone who views my repositories 
+can see that I am competent at writing code in Haskell.
 
   [PE]: https://projecteuler.net/
+  [HH]: https://www.haskell.org
 
 
 
