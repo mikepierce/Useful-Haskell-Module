@@ -7,7 +7,8 @@ and learning the language. For example,
   - An implementation of quicksort, mergesort, and an iterative mergesort.
   - Some mildly sophisticated functions to lazily return the list of prime numbers.
     It's at least better than the function on the [Haskell homepage][HH].
-  - Functions to return an integers as a list of it's decimal or binary digits.
+    And of course an integer factoring function too.
+  - Functions to return an integers as a list of its decimal or binary digits.
 
 I'm hosting this file on GitHub so that anyone who views my repositories 
 can see that I am competent at writing code in Haskell.
